@@ -34,13 +34,13 @@
         "elocrypt",
         "elocryptfive"
     ],
-    "homepage": "https://github.com/austinheap/laravel-database-encryption",
+    "homepage": "https://github.com/hthang369/laravel-database-encryption",
     "license": "MIT",
     "authors": [
         {
             "name": "Austin Heap",
             "email": "me@austinheap.com",
-            "homepage": "https://github.com/austinheap",
+            "homepage": "https://github.com/hthang369",
             "role": "Developer"
         }
     ],
